@@ -1,6 +1,6 @@
-# Exemple d'aplicació adaptativa amb Java #
+# Exemple de Singleton #
 
-En aquest projecte un exemple de Singleton a Java
+En aquest projecte hi ha un exemple de Singleton a Java
 
 ### Compilació i funcionament ###
 
