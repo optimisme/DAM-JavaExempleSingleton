@@ -1,3 +1,5 @@
+package com.project;
+
 public final class SingletonExemple {
     
     private static SingletonExemple instance;
